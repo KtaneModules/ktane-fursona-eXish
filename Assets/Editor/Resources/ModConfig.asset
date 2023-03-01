@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: fursona
+  title: Fursona
+  author: BakersDozenBagels
+  description: "Color an anthropomorphic creature.\n\r\nHTML: https://ktane.timwi.de/HTML/Fursona.html\r\nPDF:
+    https://ktane.timwi.de/PDF/Fursona.pdf\r\n\r\nFursona (fursona) v2.3.0\nModule
+    by BakersDozenBagels, maintained by eXish\r\nTwitch Plays supported"
+  version: 2.3.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 5206f7d96cc6e94408f17ee4d5a259ad, type: 3}
