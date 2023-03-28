@@ -16,7 +16,7 @@ MonoBehaviour:
   author: BakersDozenBagels
   description: "Color an anthropomorphic creature.\n\r\nHTML: https://ktane.timwi.de/HTML/Fursona.html\r\nPDF:
     https://ktane.timwi.de/PDF/Fursona.pdf\r\n\r\nFursona (fursona) v2.3.0\nModule
-    by BakersDozenBagels, maintained by eXish\r\nTwitch Plays supported"
+    by Anonymous, maintained by eXish\r\nTwitch Plays supported"
   version: 2.3.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 5206f7d96cc6e94408f17ee4d5a259ad, type: 3}
